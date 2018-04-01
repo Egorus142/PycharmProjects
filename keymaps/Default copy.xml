@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="numpad2" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="numpad5" />
+  </action>
+</keymap>
