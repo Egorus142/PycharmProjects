@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff757a9f-4c97-4454-abc3-bd013260c56f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4 Coursera/ReduceFraction.py" afterPath="$PROJECT_DIR$/Week 4 Coursera/ReduceFraction.py" />
-    </list>
+    <list default="true" id="ff757a9f-4c97-4454-abc3-bd013260c56f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,71 +14,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="recursion_power.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4 Coursera/recursion_power.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fast degree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4 Coursera/Fast degree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsPointSquare.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4 Coursera/IsPointSquare.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Divisional part.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 3 Coursera/Divisional part.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReduceFraction.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4 Coursera/ReduceFraction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SumDef.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 4 Coursera/SumDef.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverse_sequence.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reverse_sequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 4 Coursera/reverse_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TurpleExperiment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 4 Coursera/TurpleExperiment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Work with file.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 4 Coursera/Work with file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="row 2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 5 Coursera/row 2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="row 1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 5 Coursera/row 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Classification test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SMY/Classification test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SMY/1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,6 +120,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Unit Test" />
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -157,13 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week 2 Coursera/Solution 14 min del.py" />
-        <option value="$PROJECT_DIR$/Week 2 Coursera/Solution 19 sum posledovat.py" />
-        <option value="$PROJECT_DIR$/Week 2 Coursera/Solution 20.py" />
-        <option value="$PROJECT_DIR$/Week 2 Coursera/Solution 20 chetn posled.py" />
-        <option value="$PROJECT_DIR$/Week 2 Coursera/Solution 21 second max.py" />
-        <option value="$PROJECT_DIR$/Week 2 Coursera/Solution 22 count of max.py" />
-        <option value="$PROJECT_DIR$/N/123.py" />
         <option value="$PROJECT_DIR$/Week 2 Coursera/Solution 23 count of equal.py" />
         <option value="$PROJECT_DIR$/N/Asteroids/123.py" />
         <option value="$PROJECT_DIR$/Week 3 Coursera/Triangle S.py" />
@@ -208,6 +209,13 @@
         <option value="$PROJECT_DIR$/Week 4 Coursera/ReduceFraction.py" />
         <option value="$PROJECT_DIR$/Week 4 Coursera/SumDef.py" />
         <option value="$PROJECT_DIR$/Week 4 Coursera/reverse_sequence.py" />
+        <option value="$PROJECT_DIR$/Week 4 Coursera/TurpleExperiment.py" />
+        <option value="$PROJECT_DIR$/Week 4 Coursera/Test.ipynb" />
+        <option value="$PROJECT_DIR$/SMY/Classification test.py" />
+        <option value="$PROJECT_DIR$/SMY/test.ipynb" />
+        <option value="$PROJECT_DIR$/Week 4 Coursera/Work with file.py" />
+        <option value="$PROJECT_DIR$/Week 4 Coursera/row 1.py" />
+        <option value="$PROJECT_DIR$/Week 5 Coursera/row 2.py" />
       </list>
     </option>
   </component>
@@ -259,12 +267,22 @@
             <path>
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="SMY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
               <item name="Week 3 Coursera" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
               <item name="Week 4 Coursera" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 5 Coursera" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,19 +293,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Egor/PycharmProjects/Week 2 Coursera/Solution 12 Quadros.py" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Week 4 Coursera/Test.py" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Программирование\PycharmProjects\GitHub Tesserata" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/N" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Программирование\PycharmProjects\Week 3 Coursera" />
       <recent name="$PROJECT_DIR$/Week 3 Coursera" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Программирование\PycharmProjects\Week 6 Coursera" />
+      <recent name="C:\Программирование\PycharmProjects\GitHub Tesserata" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/N" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,25 +321,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reverse_sequence">
-    <configuration name="Fast degree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.row 2">
+    <configuration name="Classification test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 4 Coursera" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SMY" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4 Coursera/Fast degree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SMY/Classification test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ReduceFraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TurpleExperiment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -332,12 +351,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4 Coursera/ReduceFraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4 Coursera/TurpleExperiment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Sum without sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Work with file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -349,12 +368,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4 Coursera/Sum without sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4 Coursera/Work with file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SumDef" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="row 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -366,42 +385,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4 Coursera/SumDef.py" />
+      <option name="SCRIPT_NAME" value="C:\Программирование\PycharmProjects\Week 6 Coursera\row 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="reverse_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="row 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 4 Coursera" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 5 Coursera" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4 Coursera/reverse_sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 5 Coursera/row 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Sum without sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Fast degree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ReduceFraction" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SumDef" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reverse_sequence" />
+      <item index="0" class="java.lang.String" itemvalue="Python.TurpleExperiment" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Work with file" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Classification test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.row 1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.row 2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reverse_sequence" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SumDef" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ReduceFraction" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Fast degree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Sum without sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.row 2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.row 1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Work with file" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Classification test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.TurpleExperiment" />
       </list>
     </recent_temporary>
   </component>
@@ -436,8 +455,8 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27452025" sideWeight="0.48333332" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280363" sideWeight="0.5042644" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18047673" sideWeight="0.49516648" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18047673" sideWeight="0.50692964" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18047673" sideWeight="0.49307036" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280363" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24948454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -474,33 +493,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/N/week 3/polynom.py" />
-    <entry file="file://$PROJECT_DIR$/N/week 3/price.py" />
-    <entry file="file://$PROJECT_DIR$/N/week 3/raw sum.py" />
-    <entry file="file://$PROJECT_DIR$/N/week 3/round.py" />
-    <entry file="file://$PROJECT_DIR$/N/week 3/trianglesquare.py" />
-    <entry file="file://$PROJECT_DIR$/Week 3 Coursera/Quadratic equation 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3 Coursera/Linear 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3 Coursera/Linear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GitHub Tesserata/GitHub Tesserata/business-id-parser-master (1)/business-id-parser-master/requirements.txt" />
     <entry file="file://$PROJECT_DIR$/GitHub Tesserata/GitHub Tesserata/business-id-parser-master (1)/business-id-parser-master/run.py" />
     <entry file="file://C:/Работа/! Парсер/business-id-parser-master (29.11.17)/business-id-parser-master/core/credentials.py" />
     <entry file="file://$PROJECT_DIR$/GitHub Tesserata/GitHub Tesserata/business-id-parser-master (1)/business-id-parser-master/core/credentials.py" />
@@ -741,7 +733,7 @@
     <entry file="file://$PROJECT_DIR$/Week 4 Coursera/ReduceFraction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -765,7 +757,7 @@
     <entry file="file://$PROJECT_DIR$/Week 4 Coursera/SumDef.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -782,6 +774,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 Coursera/TurpleExperiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 Coursera/Test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMY/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMY/Classification test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6 Coursera/row 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 Coursera/Work with file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 5 Coursera/row 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMY/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 5 Coursera/row 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
