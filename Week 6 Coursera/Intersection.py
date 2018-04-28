@@ -1,16 +1,7 @@
+import collections
+
 a = list(map(int, input().split()))
 b = list(map(int, input().split()))
+a.extend(b)
 
-def Intersection(a, b):
-        a.extend(b)
-        d = []
-        i = 0
-        if len(a) != i and len(a) != i and:
-            i += 1
-            d.append(a)
-            print(d)
-        elif:
-            i += 1
-
-
-Intersection(a, b)
+print(*[item for item, count in collections.Counter(a).items() if count > 1])
