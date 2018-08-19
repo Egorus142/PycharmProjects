@@ -5,8 +5,11 @@ b.sort()
 b.reverse()
 x = 0
 
-while b < a:
-    a[0] = a[0] - b[x]
-    x += 1
+z = sum(b)
+print()
 
-print(a[1] - x - 1)
+#while b < a:
+#    a[0] = a[0] - b[x]
+#    x += 1
+
+# print(a[1] - x - 1)
